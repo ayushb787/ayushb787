@@ -24,6 +24,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushb787&show_icons=true&locale=en" alt="ayushb787" /></p>
-<p>&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/AyushB787?ext=heatmap" alt="ayushb787" /></p>
+<p><img align="left" src="https://leetcard.jacoblin.cool/AyushB787?ext=heatmap" alt="ayushb787" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushb787&" alt="ayushb787" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushb787&" alt="ayushb787" /></p>
