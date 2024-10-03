@@ -47,8 +47,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushb787&label=Profile%20views&color=0e75b6&style=flat" alt="ayushb787" /> </p>
-
 [![](https://komarev.com/ghpvc/?username=ayushb787&label=Profile%20views&color=881337&style=flat)](https://visitcount.itsvg.in)
 
-[![]([https://visitcount.itsvg.in/api?id=ayushb787](https://komarev.com/ghpvc/?username=ayushb787)&icon=0&color=5)](https://visitcount.itsvg.in)
+//[![]([https://visitcount.itsvg.in/api?id=ayushb787](https://komarev.com/ghpvc/?username=ayushb787)&icon=0&color=5)](https://visitcount.itsvg.in)
