@@ -3,13 +3,15 @@
 </h1>
 
 
-<h3 align="center">Ex-Inter @IAM | Ex-Intern @WIPRO Infrastructure Engineering | AI and ML Student | Flutter Developer | Python Backend | ReactJS | Data Science</h3>
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/ayush.bhandari.7543) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0_.ayush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-bhandari-) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/franky_sagan) 
-
+<h3 align="center">Upcoming SWE Intern at @Chubb Business Services | Ex-Inter @IAM | Ex-Intern @WIPRO Infrastructure Engineering</h3>
 
 - 📫 How to reach me **ayushbhandariofficial@gmail.com**
+- 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/ayush.bhandari.7543) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0_.ayush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-bhandari-) 
+
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
